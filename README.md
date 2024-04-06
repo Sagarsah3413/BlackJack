@@ -1,4 +1,5 @@
 # Blackjack Game
+[Click Here to Play](https://statuesque-biscuit-7d523e.netlify.app/)
 
 This repository contains a simple web-based Blackjack game designed to be played in a web browser. The game is built using HTML, CSS, and JavaScript, offering a straightforward user interface and engaging gameplay.
 
